@@ -10,6 +10,7 @@ input {
     display: block;
     position: relative;
     margin-top: 20%;
+    border: solid black;
 }
 
 #nomeDaCor {
